@@ -1,6 +1,8 @@
-# mcp-server# Web to MCP
+# Web to MCP
 
 **Send any website component to Cursor, Claude Code, or your AI coding assistant in one click.**
+
+https://web-to-mcp.com[https://web-to-mcp.com]
 
 Web to MCP is a powerful browser extension and web service that bridges the gap between design and code by allowing you to capture website components and send them directly to your AI coding assistant using the Model Context Protocol (MCP).
 
@@ -26,7 +28,6 @@ Web to MCP is a powerful browser extension and web service that bridges the gap 
 
 1. **Install the Chrome Extension**
    ```bash
-   # Visit the Chrome Web Store
    https://chromewebstore.google.com/detail/web-to-mcp/hbnhkfkblpgjlfonnikijlofeiabolmi
    ```
 
